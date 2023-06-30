@@ -1,4 +1,4 @@
 ---
 [drf]
-10.163.152.156  ansible_connection=ssh  ansible_user=dqzj9215  ansible_password=Orange768452  ansible_become=yes  host_key_checking=False  ansible_ssh_extra_args= '-o StrictHostKeyChecking=no'
-10.163.152.165  ansible_connection=ssh  ansible_user=dqzj9215  ansible_password=Orange768452  ansible_become=yes  host_key_checking=False  ansible_ssh_extra_args= '-o StrictHostKeyChecking=no'
+10.163.152.156  ansible_connection=ssh  ansible_user=d  ansible_password=O2  ansible_become=yes  host_key_checking=False  ansible_ssh_extra_args= '-o StrictHostKeyChecking=no'
+10.163.152.165  ansible_connection=ssh  ansible_user=d215  ansible_password=Oe7452  ansible_become=yes  host_key_checking=False  ansible_ssh_extra_args= '-o StrictHostKeyChecking=no'
